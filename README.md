@@ -6,6 +6,8 @@ Per-faction skin profiles (allowlist); applies to players and AI when enabled. H
 
 If a player hosts a game and sets it to UK v Russia, those flags will replace BDF and PALA respectively. If the host has downloaded and assigned custom RAF and Russian skins for those teams, those will automatically lock to the teams so any joiners can only use those skins.
 
+*The mod was completely designed by myself. The codebase was largely written by AI. It was heavily tested by myself and a server of willing humans.*
+
 **GitHub:** https://github.com/datfacesoldier95/DarkSkies-FactionGate  
 **Releases:** https://github.com/datfacesoldier95/DarkSkies-FactionGate/releases/latest
 
