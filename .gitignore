@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+dist/
+handout/
+tools/_tmp/
+tools/_ui_dump/
+tools/_faction_dump/
+skin-profiles.json
+*.dll.new

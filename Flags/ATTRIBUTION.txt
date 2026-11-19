@@ -1,0 +1,17 @@
+FactionGate flag assets
+=======================
+
+National flags (*.png matching ISO countries)
+  Source: https://flagcdn.com/ (CDN of public-domain / freely redistributable national flags)
+  Downloaded at build/setup time via tools/fetch_flags.ps1
+
+NATO / USSR
+  Simple geometric / color placeholders generated locally — not official emblems.
+
+Fiction factions (Chernarus, Takistan, CSAT, UNSC, Ace Combat, Helldivers,
+Marathon, C&C, Fallout, Warhammer 40k, Cyberpunk, etc.)
+  Original solid-color label placeholders generated locally for join-UI use only.
+  These are NOT official game assets. Drop replacement PNGs into this folder
+  (same filenames) and press F10 in-game (or restart) to reload.
+
+To add a new faction: add an entry to presets.json and a matching PNG here.
