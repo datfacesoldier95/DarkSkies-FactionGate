@@ -1,6 +1,10 @@
 # DarkSkies FactionGate
 
-Remaps the Nuclear Option **SELECT FACTION** join screen (name + flag) for Boscali and Primeva. Host picks replacements in the F1 BepInEx ConfigurationManager; joiners with the mod receive those picks over Steam NetworkingMessages. Optional per-faction workshop skin profiles (players + AI).
+Host remaps Boscali/Primeva names + flags (F1); syncs to joiners over Steam. Host can pick from hundreds of real and fictional factions and flag designs. These cover all aspects of the game such as the map screen, aircraft selection screen and join screen.
+
+Per-faction skin profiles (allowlist); applies to players and AI when enabled. Host can in the F1 (BepInEx) Menu set custom Steam Workshop skins to be assigned to certain factions.
+
+If a player hosts a game and sets it to UK v Russia, those flags will replace BDF and PALA respectively. If the host has downloaded and assigned custom RAF and Russian skins for those teams, those will automatically lock to the teams so any joiners can only use those skins.
 
 **GitHub:** https://github.com/datfacesoldier95/DarkSkies-FactionGate  
 **Releases:** https://github.com/datfacesoldier95/DarkSkies-FactionGate/releases/latest
