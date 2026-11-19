@@ -5,10 +5,20 @@ National flags (*.png matching ISO countries)
   Source: https://flagcdn.com/ (CDN of public-domain / freely redistributable national flags)
   Downloaded at build/setup time via tools/fetch_flags.ps1
 
-NATO / USSR
-  Simple geometric / color placeholders generated locally — not official emblems.
+BDF / PALA
+  Custom Boscali Defense Force and Primeva Alliance flags provided by DarkSkies
+  for FactionGate (join/map/hangar UI). Not extracted from game assets.
 
-Fiction factions (Chernarus, Takistan, CSAT, UNSC, Ace Combat, Helldivers,
+NATO
+  User-provided NATO-style flag PNG (replaces earlier local placeholder).
+
+USSR
+  Simple geometric / color placeholder generated locally — not an official emblem.
+
+UNSC / Insurrectionists / Super Earth / Automatons / Brotherhood of Steel / UKUS / AUKUS
+  User-provided flag PNGs (replace earlier local placeholders).
+
+Fiction factions (Chernarus, Takistan, CSAT, Ace Combat, Helldivers,
 Marathon, C&C, Fallout, Warhammer 40k, Cyberpunk, etc.)
   Original solid-color label placeholders generated locally for join-UI use only.
   These are NOT official game assets. Drop replacement PNGs into this folder

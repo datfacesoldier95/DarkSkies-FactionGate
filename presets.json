@@ -1,7 +1,11 @@
 {
   "presets": [
+    { "id": "bdf", "displayName": "Boscali Defense Force", "tag": "BDF", "flag": "bdf.png" },
+    { "id": "pala", "displayName": "Primeva Alliance", "tag": "PALA", "flag": "pala.png" },
     { "id": "uk", "displayName": "United Kingdom", "tag": "UK", "flag": "uk.png" },
     { "id": "usa", "displayName": "United States of America", "tag": "USA", "flag": "usa.png" },
+    { "id": "ukus", "displayName": "UKUS", "tag": "UKUS", "flag": "ukus.png" },
+    { "id": "aukus", "displayName": "AUKUS", "tag": "AUKUS", "flag": "aukus.png" },
     { "id": "russia", "displayName": "Russia", "tag": "RU", "flag": "russia.png" },
     { "id": "china", "displayName": "China", "tag": "CHN", "flag": "china.png" },
     { "id": "north_korea", "displayName": "North Korea", "tag": "DPRK", "flag": "north_korea.png" },

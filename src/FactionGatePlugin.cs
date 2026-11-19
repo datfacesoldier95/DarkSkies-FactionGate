@@ -15,7 +15,7 @@ namespace FactionGate
     {
         public const string PluginGuid = "com.darkskies.factiongate";
         public const string PluginName = "DarkSkies FactionGate";
-        public const string PluginVersion = "1.2.4";
+        public const string PluginVersion = "1.2.5";
 
         public static FactionGatePlugin Instance { get; private set; }
         public static ManualLogSource Log { get; private set; }
