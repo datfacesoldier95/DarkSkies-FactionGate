@@ -13,7 +13,7 @@ NATO
   User-provided NATO-style flag PNG (replaces earlier local placeholder).
 
 USSR
-  Simple geometric / color placeholder generated locally — not an official emblem.
+  User-provided Soviet-style flag PNG (replaces earlier local placeholder).
 
 UNSC / Insurrectionists / Super Earth / Automatons / Brotherhood of Steel / UKUS / AUKUS
   User-provided flag PNGs (replace earlier local placeholders).
